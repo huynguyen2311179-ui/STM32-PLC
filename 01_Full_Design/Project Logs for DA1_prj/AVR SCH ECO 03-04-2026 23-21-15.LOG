@@ -1,0 +1,6 @@
+Remove Pin=U5A-K2 From Net=MCU_eMMC_SDMMC2_D0
+Remove Pin=U5A-K3 From Net=MCU_eMMC_SDMMC2_D2
+Remove Pin=U5A-N2 From Net=MCU_eMMC_SDMMC2_D1
+Remove Pin=U5A-N3 From Net=MCU_eMMC_SDMMC2_D3
+Remove Pin=U5A-P5 From Net=MCU_eMMC_SDMMC2_CMD
+Remove Pin=U5A-P6 From Net=MCU_eMMC_SDMMC2_CK

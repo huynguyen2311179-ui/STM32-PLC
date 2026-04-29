@@ -1,0 +1,61 @@
+Change Component Designator: OldDesignator=Max 30mA NewDesignator=Max
+Change Component Designator: OldDesignator=Max 30mA NewDesignator=Max
+Change Component Designator: OldDesignator=Max 30mA NewDesignator=Max 
+Change Component Designator: OldDesignator=Max 30mA NewDesignator=Max 
+Change Component Designator: OldDesignator=Max 30mA NewDesignator=Max 
+Change Component Designator: OldDesignator=Max 30mA NewDesignator=Max 
+Change Component Designator: OldDesignator=Max 30mA NewDesignator=Max 
+Change Component Designator: OldDesignator=Max 30mA NewDesignator=Max 
+Change Component Designator: OldDesignator=Max 30mA NewDesignator=Max 
+Change Component Designator: OldDesignator=Max 30mA NewDesignator=Max 
+Add component: Footprint Not Found SOT-23
+Add component: Footprint Not Found SOT-23
+Add component: Footprint Not Found SOT-23
+Add Pin To Net: Unknown Pin: Pin D24-1
+Add Pin To Net: Unknown Pin: Pin D24-2
+Add Pin To Net: Unknown Pin: Pin Q9-1
+Add Pin To Net: Unknown Pin: Pin Q9-2
+Add Pin To Net: Unknown Pin: Pin Q9-3
+Add Pin To Net: Unknown Pin: Pin Q10-1
+Add Pin To Net: Unknown Pin: Pin Q10-2
+Add Pin To Net: Unknown Pin: Pin Q10-3
+Add Pin To Net: Unknown Pin: Pin Q11-1
+Add Pin To Net: Unknown Pin: Pin Q11-2
+Add Pin To Net: Unknown Pin: Pin Q11-3
+Change Net Name : Old Net Name=NetMax 30mA_1 New Net Name=NetMax _1
+Change Net Name : Old Net Name=NetMax 30mA_2 New Net Name=NetMax_2
+Add Net: Net with name "NetMax _1" already exists
+Add Net: Net with name "NetMax _1" already exists
+Add Net: Net with name "NetMax _1" already exists
+Add Net: Net with name "NetMax _1" already exists
+Add Net: Net with name "NetMax _1" already exists
+Add Net: Net with name "NetMax _1" already exists
+Add Net: Net with name "NetMax _1" already exists
+Added Pin To Net: NetName=NetMax _2 Pin=Max -2
+Added Pin To Net: NetName=NetMax _2 Pin=P5-7
+Added Net: Name=NetMax _2
+Add Net: Net with name "NetMax _2" already exists
+Add Net: Net with name "NetMax _2" already exists
+Add Net: Net with name "NetMax _2" already exists
+Add Net: Net with name "NetMax _2" already exists
+Add Net: Net with name "NetMax _2" already exists
+Add Net: Net with name "NetMax _2" already exists
+Add Net: Net with name "NetMax _2" already exists
+Added Pin To Net: NetName=NetMax_1 Pin=Max-1
+Added Pin To Net: NetName=NetMax_1 Pin=R49-1
+Added Pin To Net: NetName=NetMax_1 Pin=R52-2
+Added Net: Name=NetMax_1
+Add Net: Net with name "NetMax_1" already exists
+Add Net: Net with name "NetMax_2" already exists
+Added Member To Class: ClassName=DSDADC Member=Component Max  0ZCH0150FF2E
+Added Member To Class: ClassName=DSDADC Member=Component Max  0ZCH0150FF2E
+Added Member To Class: ClassName=DSDADC Member=Component Max  0ZCH0150FF2E
+Added Member To Class: ClassName=DSDADC Member=Component Max  0ZCH0150FF2E
+Added Member To Class: ClassName=DSDADC Member=Component Max  0ZCH0150FF2E
+Added Member To Class: ClassName=DSDADC Member=Component Max  0ZCH0150FF2E
+Added Member To Class: ClassName=DSDADC Member=Component Max  0ZCH0150FF2E
+Added Member To Class: ClassName=DSDADC Member=Component Max 0ZCH0150FF2E
+Added Member To Class: ClassName=DSDADC Member=Component Max 0ZCH0150FF2E
+Add Class Member: Failed to add class member : Component Q9 BC847C-QR
+Add Class Member: Failed to add class member : Component Q10 BC847C-QR
+Add Class Member: Failed to add class member : Component Q11 BC847C-QR

@@ -1,0 +1,47 @@
+Added Component: Designator=Q9(SOT95P240X111-3N)
+Add component (AddParameter): Name = "LCSC"; Value = "C2145"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "BC847C-QR"; VariantName = "[No Variations]"
+Added Component: Designator=Q10(SOT95P240X111-3N)
+Add component (AddParameter): Name = "LCSC"; Value = "C2145"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "BC847C-QR"; VariantName = "[No Variations]"
+Added Component: Designator=Q11(SOT95P240X111-3N)
+Add component (AddParameter): Name = "LCSC"; Value = "C2145"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "BC847C-QR"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin D24-1
+Add Pin To Net: Unknown Pin: Pin D24-2
+Added Pin To Net: NetName=NetQ9_1 Pin=Q9-1
+Added Pin To Net: NetName=NetQ9_2 Pin=Q9-2
+Added Pin To Net: NetName=V_P Pin=Q9-3
+Added Pin To Net: NetName=NetQ10_1 Pin=Q10-1
+Added Pin To Net: NetName=NetQ10_2 Pin=Q10-2
+Added Pin To Net: NetName=V_P Pin=Q10-3
+Added Pin To Net: NetName=NetQ11_1 Pin=Q11-1
+Added Pin To Net: NetName=NetQ11_2 Pin=Q11-2
+Added Pin To Net: NetName=V_P Pin=Q11-3
+Add Net: Net with name "NetMax _1" already exists
+Add Net: Net with name "NetMax _1" already exists
+Add Net: Net with name "NetMax _1" already exists
+Add Net: Net with name "NetMax _1" already exists
+Add Net: Net with name "NetMax _1" already exists
+Add Net: Net with name "NetMax _1" already exists
+Add Net: Net with name "NetMax _1" already exists
+Add Net: Net with name "NetMax _2" already exists
+Add Net: Net with name "NetMax _2" already exists
+Add Net: Net with name "NetMax _2" already exists
+Add Net: Net with name "NetMax _2" already exists
+Add Net: Net with name "NetMax _2" already exists
+Add Net: Net with name "NetMax _2" already exists
+Add Net: Net with name "NetMax _2" already exists
+Add Net: Net with name "NetMax_1" already exists
+Add Net: Net with name "NetMax_2" already exists
+Added Member To Class: ClassName=DSDADC Member=Component Max  0ZCH0150FF2E
+Added Member To Class: ClassName=DSDADC Member=Component Max  0ZCH0150FF2E
+Added Member To Class: ClassName=DSDADC Member=Component Max  0ZCH0150FF2E
+Added Member To Class: ClassName=DSDADC Member=Component Max  0ZCH0150FF2E
+Added Member To Class: ClassName=DSDADC Member=Component Max  0ZCH0150FF2E
+Added Member To Class: ClassName=DSDADC Member=Component Max  0ZCH0150FF2E
+Added Member To Class: ClassName=DSDADC Member=Component Max  0ZCH0150FF2E
+Added Member To Class: ClassName=DSDADC Member=Component Max 0ZCH0150FF2E
+Added Member To Class: ClassName=DAC Member=Component Q9 BC847C-QR
+Added Member To Class: ClassName=DAC Member=Component Q10 BC847C-QR
+Added Member To Class: ClassName=DAC Member=Component Q11 BC847C-QR

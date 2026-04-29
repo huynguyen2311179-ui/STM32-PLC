@@ -1,0 +1,68 @@
+Added Component: Designator=C44(CAPC1608X90)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TACL335M003RTA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C45(CAPC1608X90)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TACL335M003RTA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=L1(L-SMD-M-12x10)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/pbs/datasheet/78477010.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Baojun Chen"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "Nov.2015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Inductance"; Value = "1.0 µH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "78477010"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3.3V Pin=C44-1
+Added Pin To Net: NetName=GND Pin=C44-2
+Added Pin To Net: NetName=+3.3V Pin=C45-1
+Added Pin To Net: NetName=GND Pin=C45-2
+Added Pin To Net: NetName=+5V_AVCC Pin=L1-1
+Added Pin To Net: NetName=NTC1+ Pin=L1-2
+Add Pin To Net: Unknown Pin: Pin U5-E4
+Add Pin To Net: Unknown Pin: Pin U5-F2
+Add Pin To Net: Unknown Pin: Pin U5-F3
+Add Pin To Net: Unknown Pin: Pin U5-F4
+Add Pin To Net: Unknown Pin: Pin U5-F5
+Add Pin To Net: Unknown Pin: Pin U5-F6
+Add Pin To Net: Unknown Pin: Pin U5-F7
+Add Pin To Net: Unknown Pin: Pin U5-F8
+Add Pin To Net: Unknown Pin: Pin U5-F9
+Add Pin To Net: Unknown Pin: Pin U5-G2
+Add Pin To Net: Unknown Pin: Pin U5-G3
+Add Pin To Net: Unknown Pin: Pin U5-G4
+Add Pin To Net: Unknown Pin: Pin U5-G5
+Add Pin To Net: Unknown Pin: Pin U5-G6
+Add Pin To Net: Unknown Pin: Pin U5-G7
+Add Pin To Net: Unknown Pin: Pin U5-G8
+Add Pin To Net: Unknown Pin: Pin U5-G9
+Add Pin To Net: Unknown Pin: Pin U5-H2
+Add Pin To Net: Unknown Pin: Pin U5-H3
+Add Pin To Net: Unknown Pin: Pin U5-H8
+Add Pin To Net: Unknown Pin: Pin U5-H9
+Add Pin To Net: Unknown Pin: Pin U5-J5
+Add Pin To Net: Unknown Pin: Pin U5-L2
+Add Pin To Net: Unknown Pin: Pin U5-L3
+Add Pin To Net: Unknown Pin: Pin U5-L4
+Add Pin To Net: Unknown Pin: Pin U5-L7
+Add Pin To Net: Unknown Pin: Pin U5-L8
+Add Pin To Net: Unknown Pin: Pin U5-L9
+Add Pin To Net: Unknown Pin: Pin U5-M4
+Add Pin To Net: Unknown Pin: Pin U5-M5
+Add Pin To Net: Unknown Pin: Pin U5-M7
+Add Pin To Net: Unknown Pin: Pin U5-P2
+Add Pin To Net: Unknown Pin: Pin U5-P3
+Add Pin To Net: Unknown Pin: Pin U5-P8
+Add Pin To Net: Unknown Pin: Pin U5-P9
+Added Member To Class: ClassName=eMMC Member=Component C44 4.7uF/6.3V
+Added Member To Class: ClassName=eMMC Member=Component C45 4.7uF/6.3V
+Added Member To Class: ClassName=AVR Member=Component L1 10uH/250mA

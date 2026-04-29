@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=V_N Pin=U26-11
+Add component: Footprint Not Found MountingHole_2.7mm_M2.5_DIN965_Pad
+Add component: Footprint Not Found MountingHole_2.7mm_M2.5_DIN965_Pad
+Add component: Footprint Not Found MountingHole_2.7mm_M2.5_DIN965_Pad
+Add component: Footprint Not Found MountingHole_2.7mm_M2.5_DIN965_Pad
+Add Pin To Net: Unknown Pin: Pin D24-1
+Add Pin To Net: Unknown Pin: Pin D24-2
+Add Pin To Net: Unknown Pin: Pin H1-1
+Add Pin To Net: Unknown Pin: Pin H2-1
+Add Pin To Net: Unknown Pin: Pin H3-1
+Add Pin To Net: Unknown Pin: Pin H4-1
+Change Net Name : Old Net Name=V_N New Net Name=GND
+Change Net Name : Old Net Name=V_P New Net Name=NetC33_1
+Add Class Member: Failed to add class member : Component H1 MountingHole_Pad
+Add Class Member: Failed to add class member : Component H2 MountingHole_Pad
+Add Class Member: Failed to add class member : Component H3 MountingHole_Pad
+Add Class Member: Failed to add class member : Component H4 MountingHole_Pad
+Added Rule: Name=Schematic Supply Nets_3
