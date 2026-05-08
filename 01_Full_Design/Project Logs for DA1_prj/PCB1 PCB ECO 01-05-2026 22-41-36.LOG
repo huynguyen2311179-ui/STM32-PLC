@@ -1,0 +1,144 @@
+Change Component Description : Designator=F1 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F2 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F3 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F4 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F5 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F6 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F7 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F8 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F9 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F10 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F11 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F12 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F13 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F14 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F15 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F16 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F17 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F18 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F19 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F20 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F21 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F22 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F23 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F24 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F25 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F26 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F27 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F28 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F29 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F30 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=BT1 Old Description=Battery Retainer; Coin Cell; 20 MM;Surface Mount; TAPE & REEL New Description=Battery Retainer; Coin Cell; 20 MM;Surface Mount; TAPE & REEL | Keystone Electronics 3002TR
+Add component: Footprint Not Found MountingHole_2.7mm_M2.5_DIN965_Pad
+Add component: Footprint Not Found MountingHole_2.7mm_M2.5_DIN965_Pad
+Add component: Footprint Not Found MountingHole_2.7mm_M2.5_DIN965_Pad
+Add component: Footprint Not Found MountingHole_2.7mm_M2.5_DIN965_Pad
+Added Component: Designator=J1(DIL14)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/74LS14/Texas+Instruments/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "74LS14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOIC-14 Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/74LS14/Texas+Instruments/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J2(DIL14)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/74LS14/Texas+Instruments/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "74LS14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOIC-14 Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/74LS14/Texas+Instruments/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J3(DIL14)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/74LS14/Texas+Instruments/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "74LS14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOIC-14 Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/74LS14/Texas+Instruments/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J4(DIL14)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/74LS14/Texas+Instruments/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "74LS14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOIC-14 Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/74LS14/Texas+Instruments/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J5(DIL14)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/74LS14/Texas+Instruments/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "74LS14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOIC-14 Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/74LS14/Texas+Instruments/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J6(DIL14)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/74LS14/Texas+Instruments/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "74LS14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOIC-14 Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/74LS14/Texas+Instruments/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin D24-1
+Add Pin To Net: Unknown Pin: Pin D24-2
+Add Pin To Net: Unknown Pin: Pin H1-1
+Add Pin To Net: Unknown Pin: Pin H2-1
+Add Pin To Net: Unknown Pin: Pin H3-1
+Add Pin To Net: Unknown Pin: Pin H4-1
+Added Pin To Net: NetName=NetJ1_1 Pin=J1-1
+Added Pin To Net: NetName=NetJ1_1 Pin=R66-1
+Added Pin To Net: NetName=NetJ1_1 Pin=U15-4
+Added Net: Name=NetJ1_1
+Add Net: Net with name "NetJ1_1" already exists
+Add Net: Net with name "NetJ1_1" already exists
+Added Pin To Net: NetName=NetJ1_2 Pin=J1-2
+Added Pin To Net: NetName=NetJ1_2 Pin=U2-93
+Added Net: Name=NetJ1_2
+Add Net: Net with name "NetJ1_2" already exists
+Add Net: Net with name "NetJ1_2" already exists
+Added Pin To Net: NetName=NetJ2_1 Pin=J2-1
+Added Pin To Net: NetName=NetJ2_1 Pin=R68-1
+Added Pin To Net: NetName=NetJ2_1 Pin=U16-4
+Added Net: Name=NetJ2_1
+Add Net: Net with name "NetJ2_1" already exists
+Add Net: Net with name "NetJ2_1" already exists
+Added Pin To Net: NetName=NetJ2_2 Pin=J2-2
+Added Pin To Net: NetName=NetJ2_2 Pin=U2-26
+Added Net: Name=NetJ2_2
+Add Net: Net with name "NetJ2_2" already exists
+Add Net: Net with name "NetJ2_2" already exists
+Added Pin To Net: NetName=NetJ3_1 Pin=J3-1
+Added Pin To Net: NetName=NetJ3_1 Pin=R64-1
+Added Pin To Net: NetName=NetJ3_1 Pin=U14-4
+Added Net: Name=NetJ3_1
+Added Pin To Net: NetName=NetJ3_2 Pin=J3-2
+Added Pin To Net: NetName=NetJ3_2 Pin=U2-96
+Added Net: Name=NetJ3_2
+Added Pin To Net: NetName=NetJ4_1 Pin=J4-1
+Added Pin To Net: NetName=NetJ4_1 Pin=R72-1
+Added Pin To Net: NetName=NetJ4_1 Pin=U18-4
+Added Net: Name=NetJ4_1
+Added Pin To Net: NetName=NetJ4_2 Pin=J4-2
+Added Pin To Net: NetName=NetJ4_2 Pin=U2-92
+Added Net: Name=NetJ4_2
+Added Pin To Net: NetName=NetJ5_1 Pin=J5-1
+Added Pin To Net: NetName=NetJ5_1 Pin=R74-1
+Added Pin To Net: NetName=NetJ5_1 Pin=U19-4
+Added Net: Name=NetJ5_1
+Added Pin To Net: NetName=NetJ5_2 Pin=J5-2
+Added Pin To Net: NetName=NetJ5_2 Pin=U2-63
+Added Net: Name=NetJ5_2
+Added Pin To Net: NetName=NetJ6_1 Pin=J6-1
+Added Pin To Net: NetName=NetJ6_1 Pin=R70-1
+Added Pin To Net: NetName=NetJ6_1 Pin=U17-4
+Added Net: Name=NetJ6_1
+Added Pin To Net: NetName=NetJ6_2 Pin=J6-2
+Added Pin To Net: NetName=NetJ6_2 Pin=U2-95
+Added Net: Name=NetJ6_2
+Add Class Member: Failed to add class member : Component H1 MountingHole_Pad
+Add Class Member: Failed to add class member : Component H2 MountingHole_Pad
+Add Class Member: Failed to add class member : Component H3 MountingHole_Pad
+Add Class Member: Failed to add class member : Component H4 MountingHole_Pad
+Added Member To Class: ClassName=PULSE Member=Component J1 74LS14
+Added Member To Class: ClassName=PULSE Member=Component J2 74LS14
+Added Member To Class: ClassName=PULSE Member=Component J3 74LS14
+Added Member To Class: ClassName=PULSE Member=Component J4 74LS14
+Added Member To Class: ClassName=PULSE Member=Component J5 74LS14
+Added Member To Class: ClassName=PULSE Member=Component J6 74LS14
+Added Member To Class: ClassName=STM32_PLC Member=Component P5 Screw_terminal 1x4

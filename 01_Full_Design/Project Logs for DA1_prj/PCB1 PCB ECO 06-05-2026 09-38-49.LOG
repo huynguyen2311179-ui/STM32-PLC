@@ -1,0 +1,27 @@
+Add component: Footprint Not Found MountingHole_2.7mm_M2.5_DIN965_Pad
+Add component: Footprint Not Found MountingHole_2.7mm_M2.5_DIN965_Pad
+Add component: Footprint Not Found MountingHole_2.7mm_M2.5_DIN965_Pad
+Add component: Footprint Not Found MountingHole_2.7mm_M2.5_DIN965_Pad
+Add Pin To Net: Unknown Pin: Pin D24-1
+Add Pin To Net: Unknown Pin: Pin D24-2
+Add Pin To Net: Unknown Pin: Pin H1-1
+Add Pin To Net: Unknown Pin: Pin H2-1
+Add Pin To Net: Unknown Pin: Pin H3-1
+Add Pin To Net: Unknown Pin: Pin H4-1
+Added Pin To Net: NetName=NetP7_6 Pin=R65-1
+Added Pin To Net: NetName=NetP7_2 Pin=R67-1
+Added Pin To Net: NetName=NetP7_5 Pin=R71-1
+Added Pin To Net: NetName=NetP7_1 Pin=R73-1
+Added Pin To Net: NetName=NetP7_4 Pin=R77-1
+Added Pin To Net: NetName=NetP7_3 Pin=R81-1
+Added Pin To Net: NetName=NetP7_6 Pin=U15-1
+Added Pin To Net: NetName=NetP7_2 Pin=U16-1
+Added Pin To Net: NetName=NetP7_5 Pin=U18-1
+Added Pin To Net: NetName=NetP7_1 Pin=U19-1
+Added Pin To Net: NetName=NetP7_4 Pin=U21-1
+Added Pin To Net: NetName=NetP7_3 Pin=U23-1
+Added Member To Class: ClassName=STM32_PLC Member=Component BT1 3002
+Add Class Member: Failed to add class member : Component H1 MountingHole_Pad
+Add Class Member: Failed to add class member : Component H2 MountingHole_Pad
+Add Class Member: Failed to add class member : Component H3 MountingHole_Pad
+Add Class Member: Failed to add class member : Component H4 MountingHole_Pad

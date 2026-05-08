@@ -1,0 +1,57 @@
+Removed Pin From Net: NetName=GND Pin=BT1-N
+Removed Pin From Net: NetName=NetBT1_P1 Pin=BT1-P1
+Removed Pin From Net: NetName=NetBT1_P1 Pin=BT1-P2
+Change Component Description : Designator=F1 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F2 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F3 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F4 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F5 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F6 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F7 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F8 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F9 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F10 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F11 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F12 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F13 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F14 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F15 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F16 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F17 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F18 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F19 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F20 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F21 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F22 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F23 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F24 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F25 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F26 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F27 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F28 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F29 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F30 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Added Component: Designator=BT1(BAT_3002)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/3002/Keystone/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Keystone Electronics Corp."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "3002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "NON STANDARD-2 Keystone"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/3002/Keystone/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component: Footprint Not Found MountingHole_2.7mm_M2.5_DIN965_Pad
+Add component: Footprint Not Found MountingHole_2.7mm_M2.5_DIN965_Pad
+Add component: Footprint Not Found MountingHole_2.7mm_M2.5_DIN965_Pad
+Add component: Footprint Not Found MountingHole_2.7mm_M2.5_DIN965_Pad
+Added Pin To Net: NetName=GND Pin=BT1-N
+Added Pin To Net: NetName=NetBT1_P1 Pin=BT1-P1
+Added Pin To Net: NetName=NetBT1_P1 Pin=BT1-P2
+Add Pin To Net: Unknown Pin: Pin D24-1
+Add Pin To Net: Unknown Pin: Pin D24-2
+Add Pin To Net: Unknown Pin: Pin H1-1
+Add Pin To Net: Unknown Pin: Pin H2-1
+Add Pin To Net: Unknown Pin: Pin H3-1
+Add Pin To Net: Unknown Pin: Pin H4-1
+Add Class Member: Failed to add class member : Component H1 MountingHole_Pad
+Add Class Member: Failed to add class member : Component H2 MountingHole_Pad
+Add Class Member: Failed to add class member : Component H3 MountingHole_Pad
+Add Class Member: Failed to add class member : Component H4 MountingHole_Pad

@@ -1,0 +1,163 @@
+Removed Member From Class: ClassName=PULSE Member=J1
+Removed Member From Class: ClassName=PULSE Member=J2
+Removed Member From Class: ClassName=PULSE Member=J3
+Removed Member From Class: ClassName=PULSE Member=J4
+Removed Member From Class: ClassName=PULSE Member=J5
+Removed Member From Class: ClassName=PULSE Member=J6
+Change Component Description : Designator=F1 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F2 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F3 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F4 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F5 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F6 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F7 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F8 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F9 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F10 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F11 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F12 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F13 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F14 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F15 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F16 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F17 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F18 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F19 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F20 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F21 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F22 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F23 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F24 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F25 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F26 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F27 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F28 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F29 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F30 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=BT1 Old Description=Battery Retainer; Coin Cell; 20 MM;Surface Mount; TAPE & REEL New Description=Battery Retainer; Coin Cell; 20 MM;Surface Mount; TAPE & REEL | Keystone Electronics 3002TR
+Add component: Footprint Not Found MountingHole_2.7mm_M2.5_DIN965_Pad
+Add component: Footprint Not Found MountingHole_2.7mm_M2.5_DIN965_Pad
+Add component: Footprint Not Found MountingHole_2.7mm_M2.5_DIN965_Pad
+Add component: Footprint Not Found MountingHole_2.7mm_M2.5_DIN965_Pad
+Added Component: Designator=U30(N0014A)
+Add component (AddParameter): Name = "Bits(#)"; Value = "6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "MS-001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "SCLS085G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "F @ Nom Voltage(Max)(Mhz)"; Value = "20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Generic Part Number"; Value = "SN74HC14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ICC @ Nom Voltage(Max)(mA)"; Value = "0.02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Type"; Value = "CMOS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range(C)"; Value = "-40 to 85"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Drive (IOL/IOH)(Max)(mA)"; Value = "-4/4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Type"; Value = "CMOS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "N0014A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = "Catalog"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Schmitt Trigger"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology Family"; Value = "HC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "tpd @ Nom Voltage(Max)(ns)"; Value = "31"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VCC(Max)(V)"; Value = "6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VCC(Min)(V)"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage(Nom)(V)"; Value = "5"; VariantName = "[No Variations]"
+Added Component: Designator=U31(N0014A)
+Add component (AddParameter): Name = "Bits(#)"; Value = "6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "MS-001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "SCLS085G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "F @ Nom Voltage(Max)(Mhz)"; Value = "20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Generic Part Number"; Value = "SN74HC14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ICC @ Nom Voltage(Max)(mA)"; Value = "0.02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Type"; Value = "CMOS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range(C)"; Value = "-40 to 85"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Drive (IOL/IOH)(Max)(mA)"; Value = "-4/4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Type"; Value = "CMOS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "N0014A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = "Catalog"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Schmitt Trigger"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology Family"; Value = "HC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "tpd @ Nom Voltage(Max)(ns)"; Value = "31"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VCC(Max)(V)"; Value = "6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VCC(Min)(V)"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage(Nom)(V)"; Value = "5"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin D24-1
+Add Pin To Net: Unknown Pin: Pin D24-2
+Add Pin To Net: Unknown Pin: Pin H1-1
+Add Pin To Net: Unknown Pin: Pin H2-1
+Add Pin To Net: Unknown Pin: Pin H3-1
+Add Pin To Net: Unknown Pin: Pin H4-1
+Added Pin To Net: NetName=NetR64_1 Pin=R64-1
+Added Pin To Net: NetName=NetR64_1 Pin=U14-4
+Added Pin To Net: NetName=NetR64_1 Pin=U30-1
+Added Net: Name=NetR64_1
+Added Pin To Net: NetName=NetR66_1 Pin=R66-1
+Added Pin To Net: NetName=NetR66_1 Pin=U15-4
+Added Pin To Net: NetName=NetR66_1 Pin=U30-3
+Added Net: Name=NetR66_1
+Added Pin To Net: NetName=NetR68_1 Pin=R68-1
+Added Pin To Net: NetName=NetR68_1 Pin=U16-4
+Added Pin To Net: NetName=NetR68_1 Pin=U30-5
+Added Net: Name=NetR68_1
+Added Pin To Net: NetName=NetR70_1 Pin=R70-1
+Added Pin To Net: NetName=NetR70_1 Pin=U17-4
+Added Pin To Net: NetName=NetR70_1 Pin=U31-3
+Added Net: Name=NetR70_1
+Added Pin To Net: NetName=NetR72_1 Pin=R72-1
+Added Pin To Net: NetName=NetR72_1 Pin=U18-4
+Added Pin To Net: NetName=NetR72_1 Pin=U31-1
+Added Net: Name=NetR72_1
+Added Pin To Net: NetName=NetR74_1 Pin=R74-1
+Added Pin To Net: NetName=NetR74_1 Pin=U19-4
+Added Pin To Net: NetName=NetR74_1 Pin=U30-9
+Added Net: Name=NetR74_1
+Added Pin To Net: NetName=NetR76_1 Pin=R76-1
+Added Pin To Net: NetName=NetR76_1 Pin=U20-4
+Added Pin To Net: NetName=NetR76_1 Pin=U31-5
+Added Net: Name=NetR76_1
+Added Pin To Net: NetName=NetR78_1 Pin=R78-1
+Added Pin To Net: NetName=NetR78_1 Pin=U21-4
+Added Pin To Net: NetName=NetR78_1 Pin=U30-13
+Added Net: Name=NetR78_1
+Added Pin To Net: NetName=NetR80_1 Pin=R80-1
+Added Pin To Net: NetName=NetR80_1 Pin=U22-4
+Added Pin To Net: NetName=NetR80_1 Pin=U31-9
+Added Net: Name=NetR80_1
+Added Pin To Net: NetName=NetR82_1 Pin=R82-1
+Added Pin To Net: NetName=NetR82_1 Pin=U23-4
+Added Pin To Net: NetName=NetR82_1 Pin=U30-11
+Added Net: Name=NetR82_1
+Added Pin To Net: NetName=NetU2_25 Pin=U2-25
+Added Pin To Net: NetName=NetU2_25 Pin=U31-6
+Added Net: Name=NetU2_25
+Added Pin To Net: NetName=NetU2_26 Pin=U2-26
+Added Pin To Net: NetName=NetU2_26 Pin=U31-8
+Added Net: Name=NetU2_26
+Added Pin To Net: NetName=NetU2_63 Pin=U2-63
+Added Pin To Net: NetName=NetU2_63 Pin=U30-8
+Added Net: Name=NetU2_63
+Added Pin To Net: NetName=NetU2_64 Pin=U2-64
+Added Pin To Net: NetName=NetU2_64 Pin=U30-6
+Added Net: Name=NetU2_64
+Added Pin To Net: NetName=NetU2_78 Pin=U2-78
+Added Pin To Net: NetName=NetU2_78 Pin=U30-10
+Added Net: Name=NetU2_78
+Added Pin To Net: NetName=NetU2_79 Pin=U2-79
+Added Pin To Net: NetName=NetU2_79 Pin=U30-12
+Added Net: Name=NetU2_79
+Added Pin To Net: NetName=NetU2_92 Pin=U2-92
+Added Pin To Net: NetName=NetU2_92 Pin=U31-2
+Added Net: Name=NetU2_92
+Added Pin To Net: NetName=NetU2_93 Pin=U2-93
+Added Pin To Net: NetName=NetU2_93 Pin=U30-4
+Added Net: Name=NetU2_93
+Added Pin To Net: NetName=NetU2_95 Pin=U2-95
+Added Pin To Net: NetName=NetU2_95 Pin=U31-4
+Added Net: Name=NetU2_95
+Added Pin To Net: NetName=NetU2_96 Pin=U2-96
+Added Pin To Net: NetName=NetU2_96 Pin=U30-2
+Added Net: Name=NetU2_96
+Add Class Member: Failed to add class member : Component H1 MountingHole_Pad
+Add Class Member: Failed to add class member : Component H2 MountingHole_Pad
+Add Class Member: Failed to add class member : Component H3 MountingHole_Pad
+Add Class Member: Failed to add class member : Component H4 MountingHole_Pad
+Added Member To Class: ClassName=PULSE Member=Component U30 SN74HC14N
+Added Member To Class: ClassName=PULSE Member=Component U31 SN74HC14N
