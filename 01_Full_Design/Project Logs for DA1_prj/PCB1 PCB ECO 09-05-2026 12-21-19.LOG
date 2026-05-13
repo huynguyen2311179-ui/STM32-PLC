@@ -1,0 +1,63 @@
+Removed Member From Class: ClassName=DAC Member=D24
+Change Component Description : Designator=F1 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F2 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F3 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F4 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F5 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F6 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F7 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F8 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F9 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F10 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F11 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F12 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F13 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F14 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F15 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F16 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F17 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F18 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F19 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F20 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F21 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F22 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F23 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F24 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F25 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F26 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F27 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F28 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F29 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F30 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=BT1 Old Description=Battery Holder: SMT, 1 Coin Cell, 20mm, PhosBronze/Tin-Nickel New Description=Battery Holder: SMT, 1 Coin Cell, 20mm, PhosBronze/Tin-Nickel | Keystone Electronics 3002
+Added Component: Designator=D?(SMC)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/B560C-13-F/Diodes+Inc./view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Diodes Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "B560C-13-F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMC-2 Diodes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/B560C-13-F/Diodes+Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D?(SMC)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/B560C-13-F/Diodes+Inc./view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Diodes Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "B560C-13-F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMC-2 Diodes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/B560C-13-F/Diodes+Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component: Footprint Not Found MountingHole_2.7mm_M2.5_DIN965_Pad
+Add component: Footprint Not Found MountingHole_2.7mm_M2.5_DIN965_Pad
+Add component: Footprint Not Found MountingHole_2.7mm_M2.5_DIN965_Pad
+Add component: Footprint Not Found MountingHole_2.7mm_M2.5_DIN965_Pad
+Added Pin To Net: NetName=GND Pin=D?-A
+Added Pin To Net: NetName=VDC Pin=D?-C
+Add Pin To Net: Unknown Pin: Pin H1-1
+Add Pin To Net: Unknown Pin: Pin H2-1
+Add Pin To Net: Unknown Pin: Pin H3-1
+Add Pin To Net: Unknown Pin: Pin H4-1
+Added Member To Class: ClassName=DAC Member=Component D? B560C-13-F
+Added Member To Class: ClassName=DAC Member=Component D? B560C-13-F
+Add Class Member: Failed to add class member : Component H1 MountingHole_Pad
+Add Class Member: Failed to add class member : Component H2 MountingHole_Pad
+Add Class Member: Failed to add class member : Component H3 MountingHole_Pad
+Add Class Member: Failed to add class member : Component H4 MountingHole_Pad
+Added Member To Class: ClassName=STM32_PLC Member=Component U2 STM32F373VBTx

@@ -1,0 +1,87 @@
+Removed Pin From Net: NetName=NetQ9_1 Pin=U24-1
+Removed Pin From Net: NetName=NetR113_2 Pin=U24-2
+Removed Pin From Net: NetName=NetC34_1 Pin=U24-3
+Removed Pin From Net: NetName=VDC Pin=U24-4
+Removed Pin From Net: NetName=NetR107_1 Pin=U24-5
+Removed Pin From Net: NetName=NetR113_1 Pin=U24-6
+Removed Pin From Net: NetName=NetR113_2 Pin=U24-7
+Removed Pin From Net: NetName=NetQ11_1 Pin=U24-8
+Removed Pin From Net: NetName=NetR120_2 Pin=U24-9
+Removed Pin From Net: NetName=NetC36_1 Pin=U24-10
+Removed Pin From Net: NetName=GND Pin=U24-11
+Removed Pin From Net: NetName=NetR117_1 Pin=U24-12
+Removed Pin From Net: NetName=NetR120_1 Pin=U24-13
+Removed Pin From Net: NetName=NetR120_2 Pin=U24-14
+Change Component Description : Designator=F1 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F2 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F3 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F4 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F5 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F6 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F7 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F8 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F9 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F10 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F11 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F12 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F13 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F14 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F15 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F16 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F17 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F18 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F19 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F20 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F21 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F22 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F23 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F24 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F25 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F26 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F27 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F28 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F29 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=F30 Old Description=1210 SMT PPTC New Description=1210 SMT PPTC | 1.50 Ih | 6V
+Change Component Description : Designator=BT1 Old Description=Battery Holder: SMT, 1 Coin Cell, 20mm, PhosBronze/Tin-Nickel New Description=Battery Holder: SMT, 1 Coin Cell, 20mm, PhosBronze/Tin-Nickel | Keystone Electronics 3002
+Add component: Footprint Not Found MountingHole_2.7mm_M2.5_DIN965_Pad
+Add component: Footprint Not Found MountingHole_2.7mm_M2.5_DIN965_Pad
+Add component: Footprint Not Found MountingHole_2.7mm_M2.5_DIN965_Pad
+Add component: Footprint Not Found MountingHole_2.7mm_M2.5_DIN965_Pad
+Added Component: Designator=U24(SOIC127P600X175-14N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/LM324AM/Texas+Instruments/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LM324AM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOIC-14 Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LM324AM/Texas+Instruments/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U28(SOIC127P600X175-14N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/LM324AM/Texas+Instruments/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LM324AM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOIC-14 Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LM324AM/Texas+Instruments/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin H1-1
+Add Pin To Net: Unknown Pin: Pin H2-1
+Add Pin To Net: Unknown Pin: Pin H3-1
+Add Pin To Net: Unknown Pin: Pin H4-1
+Added Pin To Net: NetName=NetC34_1 Pin=U24-5
+Added Pin To Net: NetName=NetR113_2 Pin=U24-6
+Added Pin To Net: NetName=NetQ9_1 Pin=U24-7
+Added Pin To Net: NetName=NetR107_1 Pin=U24-12
+Added Pin To Net: NetName=NetR113_1 Pin=U24-13
+Added Pin To Net: NetName=NetR113_2 Pin=U24-14
+Added Pin To Net: NetName=NetQ11_1 Pin=U28-1
+Added Pin To Net: NetName=NetR120_2 Pin=U28-2
+Added Pin To Net: NetName=NetC36_1 Pin=U28-3
+Added Pin To Net: NetName=VDC Pin=U28-4
+Added Pin To Net: NetName=NetR120_2 Pin=U28-8
+Added Pin To Net: NetName=NetR120_1 Pin=U28-9
+Added Pin To Net: NetName=NetR117_1 Pin=U28-10
+Added Pin To Net: NetName=GND Pin=U28-11
+Add Class Member: Failed to add class member : Component H1 MountingHole_Pad
+Add Class Member: Failed to add class member : Component H2 MountingHole_Pad
+Add Class Member: Failed to add class member : Component H3 MountingHole_Pad
+Add Class Member: Failed to add class member : Component H4 MountingHole_Pad
+Added Member To Class: ClassName=STM32_PLC Member=Component P4 Screw_terminal 1x3
+Added Member To Class: ClassName=DAC Member=Component U28 LM2902
